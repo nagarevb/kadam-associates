@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html{scroll-behavior:smooth;background:#020b18}body{margin:0;min-width:320px;background:#020b18;font-family:Inter,Arial,sans-serif}*{box-sizing:border-box}button{font:inherit}
